@@ -102,13 +102,16 @@ languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: Hindi
+    level: 5
     label: Fluent
+  - name: Marathi
+    label: 4
+    label: Proficient
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: RedHat Hackhon Winner 2025
+    awarder: RedHat
+    date: "2025-10-01"
+    summary: Awarded for Agentic AI poc called UPI fraud detection system
     icon: hero/trophy
