@@ -87,15 +87,15 @@ skills:
   - name: Certifications
     items:
       - label: Red Hat Certified Specialist in OpenShift Administration
-        level: 5
+        
       - label: Terraform Certified Associate
-        level: 4
+        
       - label: AWS Certified Solutions Architect
-        level: 4
+        
       - label: VMware Certified Professional - Data Center Virtualization
-        level: 5
+        
       - label: Red Hat certified Engineer (RHCE)
-        level: 5
+        
 
 languages:
   - name: English
