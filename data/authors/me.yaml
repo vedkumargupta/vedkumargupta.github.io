@@ -93,7 +93,7 @@ skills:
     items:
       - label: Academic Writing
         level: 5
-      - label: Conference Presentations
+      - label: Ansible Automation
         level: 4
       - label: Grant Proposals
         level: 4
