@@ -44,7 +44,7 @@ links:
 interests:
   - Playing Cricket
   - Computer Vision
-  - Reinforcement Learning
+  - Containerization Platforms
   - AI Ethics
 
 education:
@@ -64,39 +64,45 @@ education:
     end: 2004-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: RedHat Specialist and Cloud Architect
+    org: IBM
+    start: 2022-04-07
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      RedHat and Cloud Architect specializing in scalable architecture, DevOps, and infrastructure automation to deliver business-focused cloud solutions.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Technical Lead
+    org: Wipro Ltd
+    start: 2014-06-04
+    end: 2022-04-05
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on implementing Virtualization of Physical servers.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Hybrid Cloud Orchestration:- Seamlessly managing workloads across AWS and Azure while leveraging VMware and KVM for on-premises virtualization.
         level: 5
-      - label: AWS Cloud
+      - label: GitOps & Automation:- Implementing modern GitOps workflows using Argo CD and automating configuration management with Ansible and Terraform.
         level: 5
-      - label: Cloud Computing
+      - label: Observability:- Building comprehensive monitoring stacks using Prometheus/Grafana and ELK to ensure 99.9% system uptime and proactive issue resolution.
         level: 4
-  - name: Research & Communication
+      - label: Secure Infrastructure:- Implementing Zero Trust principles through rigorous IAM policies, Network Security Groups, and encrypted communication protocols.
+        level: 5
+  - name: Certifications
     items:
-      - label: Academic Writing
+      - label: Red Hat Certified Specialist in OpenShift Administration
         level: 5
-      - label: Ansible Automation
+      - label: Terraform Certified Associate
         level: 4
-      - label: Grant Proposals
+      - label: AWS Certified Solutions Architect
         level: 4
+      - label: VMware Certified Professional - Data Center Virtualization
+        level: 5
+      - label: Red Hat certified Engineer (RHCE)
+        level: 5
 
 languages:
   - name: English
