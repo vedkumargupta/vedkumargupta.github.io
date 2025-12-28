@@ -1,6 +1,6 @@
 ---
 title: Notes by Ved
-summary: A brief description of this website.
+summary: A collection of curated thoughts and digital fragments..
 tags:
   - AWS
   - DevOps
