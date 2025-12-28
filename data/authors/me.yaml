@@ -83,7 +83,7 @@ skills:
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: AWS Cloud
         level: 5
       - label: Cloud Computing
         level: 4
