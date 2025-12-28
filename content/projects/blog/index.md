@@ -2,8 +2,8 @@
 title: Notes by Ved
 summary: A collection of curated thoughts and digital fragments..
 tags:
-  - AWS
-  - DevOps
+  - Resilience
+  - Deep Believe
 date: '2023-01-01T00:00:00Z'
 
 # IMPORTANT: This link makes the card go directly to the external site
