@@ -106,7 +106,7 @@ languages:
     level: 5
     label: Fluent
   - name: Marathi
-    label: 4
+    level: 4
     label: Proficient
 
 awards:
