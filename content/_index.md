@@ -38,7 +38,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 Technical Skills
+      title: '📚 Technical Skills'
       subtitle: ''
       text: |-
         Frameworks & CMS:- Hugo, HugoBlox (Wowchemy), WordPress (Gutenberg & Classic), Static Site Generators (SSG).
