@@ -49,7 +49,7 @@ sections:
 
         Workflow & DevOps:- Git/GitHub (Version Control), Netlify/Vercel (Deployment), CI/CD pipelines, FTP/SFTP, and Database Management (MySQL).
 
-        Blogging & Marketing: SEO Strategy, Google Analytics 4, Content Lifecycle Management, and Site Speed Optimization.
+        Blogging & Marketing:- SEO Strategy, Google Analytics 4, Content Lifecycle Management, and Site Speed Optimization.
     design:
       columns: '1'
   - block: collection
