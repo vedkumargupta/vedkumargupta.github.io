@@ -38,14 +38,19 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Technical Skills
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        
+        Frameworks & CMS: Hugo, HugoBlox (Wowchemy), WordPress (Gutenberg & Classic), Static Site Generators (SSG).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Hosting & Server Management: DNS Management, SSL Configuration, cPanel/Plesk, Managed WordPress Hosting and Cloud Deployments.
 
-        Please reach out to collaborate 😃
+        Languages & Data: Markdown (Content), YAML/TOML (Configuration), HTML5, CSS3, PHP (WordPress Core/Themes).
+
+        Workflow & DevOps: Git/GitHub (Version Control), Netlify/Vercel (Deployment), CI/CD pipelines, FTP/SFTP, and Database Management (MySQL).
+
+        Blogging & Marketing: SEO Strategy, Google Analytics 4, Content Lifecycle Management, and Site Speed Optimization.
     design:
       columns: '1'
   - block: collection
