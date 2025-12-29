@@ -41,14 +41,13 @@ sections:
       title: '📚 Technical Skills
       subtitle: ''
       text: |-
-        
-        Frameworks & CMS: Hugo, HugoBlox (Wowchemy), WordPress (Gutenberg & Classic), Static Site Generators (SSG).
+        Frameworks & CMS:- Hugo, HugoBlox (Wowchemy), WordPress (Gutenberg & Classic), Static Site Generators (SSG).
 
-        Hosting & Server Management: DNS Management, SSL Configuration, cPanel/Plesk, Managed WordPress Hosting and Cloud Deployments.
+        Hosting & Server Management:- DNS Management, SSL Configuration, cPanel/Plesk, Managed WordPress Hosting and Cloud Deployments.
 
-        Languages & Data: Markdown (Content), YAML/TOML (Configuration), HTML5, CSS3, PHP (WordPress Core/Themes).
+        Languages & Data:- Markdown (Content), YAML/TOML (Configuration), HTML5, CSS3, PHP (WordPress Core/Themes).
 
-        Workflow & DevOps: Git/GitHub (Version Control), Netlify/Vercel (Deployment), CI/CD pipelines, FTP/SFTP, and Database Management (MySQL).
+        Workflow & DevOps:- Git/GitHub (Version Control), Netlify/Vercel (Deployment), CI/CD pipelines, FTP/SFTP, and Database Management (MySQL).
 
         Blogging & Marketing: SEO Strategy, Google Analytics 4, Content Lifecycle Management, and Site Speed Optimization.
     design:
